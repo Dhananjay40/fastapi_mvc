@@ -1,6 +1,5 @@
 import fastapi
 from models.user_model import User
-from pydantic import BaseModel
 
 router = fastapi.APIRouter()
 
